@@ -1,7 +1,7 @@
 - 👋 Hi, I'm @mcasasbo
-- 👀 I am interested in natural language processing, in addition to machine learning
+- 👀 I am interested in machine learning, in addition to natural language processing
 - 🌱 I am currently learning neural networks
-- 💞️ I am looking to collaborate in Data Analyst and Data Science projects applied to clinical research
+- 💞️ I am looking to collaborate in Data Analyst and Data Science projects applied to Business Intelligence
 - 📫 contact me at mcaboj@gmail.com.
 
 <!---
